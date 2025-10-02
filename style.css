@@ -1,0 +1,19 @@
+body {
+  background-color: #4C9DB0; /* Warna kuning cerah, aku ubah jadi warna vanilla */
+  font-family: Arial, sans-serif; /*Jenis huruf yang bersih dan mudah dibaca*/
+  color: #FFEBAF; /*warna teks utama (Biru Gelap), aku ganti jadi kuning moonstone*/
+}
+
+.kartu-profil img {
+  width: 150px;
+  border-radius: 50%; /*tips membuat gambar menjadi bentuk bulat/lingkaran sempurna */
+
+.kartu-profil {
+  text-align: center; /*nengahin teks */
+  width: 300px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: white;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* efek bayangan */
+}
